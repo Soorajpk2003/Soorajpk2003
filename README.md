@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sooraj P K</h1>
 <h3 align="center">Passionate about data and using insights to help business to make informed decisions.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
