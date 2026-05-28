@@ -43,10 +43,6 @@ Currently working as a Data Analyst Trainer and continuously upgrading my skills
   alt="powerbi" width="40" height="40"/>
 </a>
 
-<a href="https://www.tableau.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" 
-  alt="tableau" width="40" height="40"/>
-</a>
 
 <!-- Data Tools -->
 <a href="https://pandas.pydata.org/" target="_blank">
